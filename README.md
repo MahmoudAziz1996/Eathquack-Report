@@ -9,6 +9,7 @@ Android Goodies
 <ul>
 <li>HttpURLConnection</li>
 <li>AsyncTask</li>
+ <li>Using AsyncTasksLoader to connect to the internet</li>
 <li>JSON Parsing.</li>
 <li>Customizing ListViews,using ArrayLists & ArrayAdapters..</li>
 <li>Using progress bar and listview empty for better UX.</li>
